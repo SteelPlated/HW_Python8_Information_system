@@ -26,3 +26,10 @@ reading_file_to_dict(2)
 print(database)
 print_children('Ivanov')
 # Создать решение для вывода детей по фамилии
+
+n='Ivanov'
+for i in database[1]:
+    if i[2]==n:
+        for j in database[2]:
+            if j[1]==i[0]:
+                print(f'{j[2]} {j[3]}')
