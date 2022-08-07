@@ -1,0 +1,3 @@
+id;fio;disciplin
+1;Marina Pavlovna;mathem
+2;Pavel Marinovich;bio

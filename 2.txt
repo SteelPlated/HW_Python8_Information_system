@@ -1,3 +1,4 @@
-id;par_id;name;surname;bd
-1;1;Egor;Ivanov;01.08.2022
-2;1;Misha;Ivanov;02.08.2022
+id;par_id;name;surname;bd; klass_id
+1;1;Миша;Пиша;11.11.22;1A
+1;2;Саша;Паша;11.11.22;1A
+1;2;Коля;Пиша;11.11.22;2A
